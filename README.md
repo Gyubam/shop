@@ -1,3 +1,3 @@
 # shop
 
-jpa shop
+jpa shopping mall
